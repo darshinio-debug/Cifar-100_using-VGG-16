@@ -1,6 +1,17 @@
 # Cifar-100_using-VGG-16
 CIFAR-100 image classification using VGG16 with transfer learning and fine-tuning. CIFAR images (32×32) are resized to 224×224 for VGG16 compatibility. Includes data augmentation, feature extraction, fine-tuning, and model evaluation for higher accuracy.
 
+# CIFAR-100 Classification using VGG-16
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![Keras](https://img.shields.io/badge/Keras-API-red)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Stars](https://img.shields.io/github/stars/darshinlo-debug/Cifar-100_using-VGG-16?style=social)
+
+...
+
 # 🚀 Project Overview
 
 ✔ Uses **VGG-16 pretrained on ImageNet**  
