@@ -3,14 +3,24 @@ CIFAR-100 image classification using VGG16 with transfer learning and fine-tunin
 
 # CIFAR-100 Classification using VGG-16
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Keras](https://img.shields.io/badge/Keras-API-red)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Stars](https://img.shields.io/github/stars/darshinlo-debug/Cifar-100_using-VGG-16?style=social)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-...
+---
+
+## 📊 Project Overview
+
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![Keras](https://img.shields.io/badge/Keras-API-red)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+
 
 # 🚀 Project Overview
 
